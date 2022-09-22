@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou a procura de um estágio na área de CCOMP
 - 🌱 Estudando C e C++
-- 📫 Contate-me pelo email: gabriel.gabrielmarx@gmail.com 
+- 📫 Contate-me pelo email: gabriel.gabrielmarquess@gmail.com 
 - 😄 Pronouns: Ele/Dele
 ##
 <div align="center">
