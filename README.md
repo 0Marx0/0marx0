@@ -1,6 +1,6 @@
 <!-- # Olá! Aqui é o Marx ✨ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Olá!+Aqui+é+o+Marx+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+##
 - 🔭 Hoje estou a procura de um estágio na área de CCOMP
 - 🌱 Estudando C e C++
 - 📫 Contate-me pelo email: gabriel.gabrielmarquess@gmail.com 
@@ -8,8 +8,8 @@
 ##
 <div align="center">
   <a href="https://github.com/0Marx0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0Marx0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marx0&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0Marx0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marx0&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
