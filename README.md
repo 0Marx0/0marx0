@@ -1,4 +1,4 @@
-### Olá! Pode me chamar por Marx ✨
+<!-- # Olá! Aqui é o Marx ✨ -->
 
 - 🔭 Hoje estou a procura de um estágio na área de CCOMP
 - 🌱 Estudando C e C++
