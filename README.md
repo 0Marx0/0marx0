@@ -18,7 +18,8 @@
   <img align="center" alt="Marx-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="right" alt="Marx-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/751985115873411214/1021440958971248720/WhatsApp_Image_2022-09-19_at_12.14.09.jpeg">
 </div>
-  ##
+  
+##
   
   <div> 
   <a href="https://www.instagram.com/gabs.marx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
