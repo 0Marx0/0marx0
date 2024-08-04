@@ -15,7 +15,7 @@
   <img align="center" alt="Marx-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Marx-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Marx-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Marx-pic" height="150" style="border-radius:50px;" src="[https://cdn.discordapp.com/attachments/751985115873411214/1021440958971248720/WhatsApp_Image_2022-09-19_at_12.14.09.jpeg](https://cdn.discordapp.com/attachments/751985115873411214/1269720765838790688/Identidade_visual_-_Solution.png?ex=66b1171c&is=66afc59c&hm=338d8a1df3a0931611ee96fb6f17fbbb89a750cdcae134b786b7de7aa3539f60&)">
+  <img align="right" alt="Marx-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/751985115873411214/1269720765838790688/Identidade_visual_-_Solution.png?ex=66b1171c&is=66afc59c&hm=338d8a1df3a0931611ee96fb6f17fbbb89a750cdcae134b786b7de7aa3539f60&"> 
 </div>
   
 ##
