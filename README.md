@@ -1,7 +1,7 @@
 <!-- # Olá! Aqui é o Marx ✨ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20A1F2&width=435&lines=Olá!+Aqui+é+o+Marx+%F0%9F%91%8B)](https://git.io/typing-svg)
 ##
-- 🔭 A procura de um estágio na área de Dev e Front-End
+- 🔭 A procura de um estágio
 - 🌱 Fazendo Ciência e Tecnologia na UNIFESP
 - 📫 Contate-me pelo email: gabriel.gabrielmarquess@gmail.com 
 ##
